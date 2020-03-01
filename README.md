@@ -1,1 +1,1 @@
-# A repo for image storing
+# a repo for image storing
